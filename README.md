@@ -29,19 +29,19 @@ Custom-content support means the port can load additional assets, not that every
 Acquire the RVGL files from [here](https://distribute.re-volt.io/releases/rvgl_full_win64_original.zip) *(you don't need the dlls and the exe)*.
 
 ### Wii
-Download the [Wii DOL]([https://distribute.re-volt.io/releases/rvgl_full_win64_original.zip](https://github.com/BirdSentinel/rvgl-for-consoles/releases)) from the releases page. Copy the files to the root of your SD/USB and put the RVGL files in the empty "rvgl" folder, then launch it from Homebrew Launcher.
+Download the [Wii DOL]([https://distribute.re-volt.io/releases/rvgl_full_win64_original.zip](https://github.com/BirdSentinel/rvgl-for-consoles/releases) from the releases page. Copy the files to the root of your SD/USB and put the RVGL files in the empty "rvgl" folder, then launch it from Homebrew Launcher.
 
 ### Gamecube
-Download the [GC DOL]([https://distribute.re-volt.io/releases/rvgl_full_win64_original.zip](https://github.com/BirdSentinel/rvgl-for-consoles/releases)) from the releases page. Copy the files to your SD card and put the RVGL files in the empty "rvgl" folder, then launch it from Swiss.
+Download the [GC DOL]([https://distribute.re-volt.io/releases/rvgl_full_win64_original.zip](https://github.com/BirdSentinel/rvgl-for-consoles/releases) from the releases page. Copy the files to your SD card and put the RVGL files in the empty "rvgl" folder, then launch it from Swiss.
 
 ### Switch
 Open the [rvgl-for-switch](https://github.com/BirdSentinel/rvgl-for-switch) repo and follow the instructions.
 
 ### PSP
-Download the [PSP Pack]([https://github.com/BirdSentinel/rvgl-for-switch](https://github.com/BirdSentinel/rvgl-for-consoles/releases)) from the releases page, copy to PSP/GAME/RVGL and launch it from the XMB. *(The converted RVGL files already in the PSP Pack)*
+Download the [PSP Pack]([https://github.com/BirdSentinel/rvgl-for-switch](https://github.com/BirdSentinel/rvgl-for-consoles/releases) from the releases page, copy to PSP/GAME/RVGL and launch it from the XMB. *(The converted RVGL files already in the PSP Pack)*
 
 ### PS3
-Download the [PS3 EBOOT]([https://github.com/BirdSentinel/rvgl-for-switch](https://github.com/BirdSentinel/rvgl-for-consoles/releases)) from the releases page. Copy the files to /dev_hdd0/game/RVGL00001 and put the RVGL content to the USRDIR folder.
+Download the [PS3 EBOOT]([https://github.com/BirdSentinel/rvgl-for-switch](https://github.com/BirdSentinel/rvgl-for-consoles/releases) from the releases page. Copy the files to /dev_hdd0/game/RVGL00001 and put the RVGL content to the USRDIR folder.
 
 ### Xbox 360
-Download the [360 XEX]([https://github.com/BirdSentinel/rvgl-for-switch](https://github.com/BirdSentinel/rvgl-for-consoles/releases)) from the releases page. Copy the files to your HDD or USB, and then put the RVGL content to the "rvgl" folder, launch it with default.xex
+Download the [360 XEX]([https://github.com/BirdSentinel/rvgl-for-switch](https://github.com/BirdSentinel/rvgl-for-consoles/releases) from the releases page. Copy the files to your HDD or USB, and then put the RVGL content to the "rvgl" folder, launch it with default.xex
