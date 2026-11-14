@@ -13,7 +13,7 @@ All versions below are based on **23.1030a1 version**, and they support **cross-
 | GameCube | Yes; memory limits apply | Up to 4 | 480p with 60fps on stock tracks with 4 cars | Works on Dolphin, unverified on real hardware | 128/256px textures, unverified on real hardware |
 | Switch | Yes | Up to 4  | 720p/1080p with 60fps on stock tracks with 8 cars | Works on real hardware | - |
 | PSP | Yes; memory limits apply | No | Native PSP resolution, targeting 30fps with 4 cars | Works on PPSSPP, unverified on real hardware | Needs 64MB memory, PSP-1000 is not supported |
-| PS3 | Yes | Up to 4 | 720p with 60fps on stock tracks with 8 cars | Works on real hardware | - |
+| PS3 | Yes | Up to 4 | 1080p with 60fps on stock tracks with 8 cars | Works on real hardware | With keyboard support |
 | Xbox 360 | Yes | Up to 4| 720p with 60fps on stock tracks with 8 cars | Works on real hardware | - |
 
 Custom-content support means the port can load additional assets, not that every community track fits its memory budget. FPS caps and render resolutions are settings, not guaranteed performance.
@@ -44,7 +44,7 @@ Open the [rvgl-for-switch](https://github.com/BirdSentinel/rvgl-for-switch) repo
 Download the [PSP Pack](https://github.com/BirdSentinel/rvgl-for-consoles/releases) from the releases page, copy to PSP/GAME/RVGL and launch it from the XMB. *(The converted RVGL files already in the PSP Pack)*
 
 ### PS3
-Download the [PS3 EBOOT](https://github.com/BirdSentinel/rvgl-for-consoles/releases) from the releases page. Copy the files to /dev_hdd0/game/RVGL00001 and put the RVGL content to the USRDIR folder.
+Download the [PS3 PKG](https://github.com/BirdSentinel/rvgl-for-consoles/releases) from the releases page. Install the PKG from the Package Manager.
 
 ### Xbox 360
 Download the [360 XEX](https://github.com/BirdSentinel/rvgl-for-consoles/releases) from the releases page. Copy the files to your HDD or USB, and then put the RVGL content to the "rvgl" folder, launch it with default.xex
