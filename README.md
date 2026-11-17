@@ -12,7 +12,7 @@ All versions below are based on **23.1030a1 version**, and they support **cross-
 | Wii | Yes; memory limits apply | Up to 4 | 480p with 60fps on stock tracks with 8 cars | Works on Dolphin, unverified on real hardware | 512px texture cap |
 | GameCube | Yes; memory limits apply | Up to 4 | 480p with 60fps on stock tracks with 4 cars | Works on Dolphin, unverified on real hardware | 128/256px textures, unverified on real hardware |
 | Switch | Yes | Up to 4  | 720p/1080p with 60fps on stock tracks with 8 cars | Works on real hardware | - |
-| PSP | Yes; memory limits apply | No | Native PSP resolution, targeting 30fps with 4 cars | Works on PPSSPP, unverified on real hardware | Needs 64MB memory, PSP-1000 is not supported |
+| PSP | Yes; memory limits apply | No | Native PSP resolution, targeting 30fps with 4 cars | Works on PPSSPP, unverified on real hardware | Needs 64MB memory, PSP-1000 is not supported, for stable 30+fps 443Mhz OC recommended. |
 | PS3 | Yes | Up to 4 | 1080p with 60fps on stock tracks with 8 cars | Works on real hardware | With keyboard support |
 | Xbox 360 | Yes | Up to 4| 720p with 60fps on stock tracks with 8 cars | Works on real hardware | - |
 
